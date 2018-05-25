@@ -1,6 +1,6 @@
 # webpack-starter-kit
-  install <br>https://nodejs.org/en/
-  git clone<br>
+  install https://nodejs.org/en/<br>
+  git clone https://github.com/jaguar52650/webpack-starter-kit.git<br>
   npm i<br>
 ## production<br>
   npm run build<br>
