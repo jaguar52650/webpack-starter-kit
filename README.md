@@ -1,7 +1,7 @@
 # webpack-starter-kit
-  git clone
-  npm i
-production:
-  npm run build
-develop:
-  npm run dev
+  git clone<br>
+  npm i<br>
+## production<br>
+  npm run build<br>
+## develop<br>
+  npm run dev<br>
